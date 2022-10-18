@@ -21,4 +21,4 @@ Conda installable mpi version of gromacs 2021.4 patched with plumed 2.8.0
  
  Then installed other required software and finally conda-packed the resulting environment (see nucl.yaml)
  
- 
+ check out https://github.com/bioconda/bioconda-recipes/tree/master/recipes/gromacs_mpi/2021 for more example
